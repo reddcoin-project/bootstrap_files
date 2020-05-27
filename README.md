@@ -3,11 +3,11 @@ Official location for trusted bootstrap and blockchain files for alternate sync 
 
 #bootstrap.dat files for Reddcoin (RDD)
 
-Google Drive link to current (12-21-19) ZIP file format blockchain files. 
+Google Drive link to current (05-01-20) ZIP file format blockchain files. 
 
 ZIP contains compressed blocks/ and chainstate/ folder 
 
-https://drive.google.com/file/d/1-d0SFGxMX6O3558_QrSeiuEkK0-vMQL4/
+https://drive.google.com/open?id=1ItVFGiDyIH5SfCNhfrj29Qavg8LWmfZy
 
 Unzip to extract it and place the resulting blocks and chainstate folders inside the %APPDATA%\Reddcoin\ folders. If these folders exist already, they should be deleted before replacing with this data. 
 
@@ -27,8 +27,8 @@ https://drive.google.com/file/d/1XP792Wzq5lbBlSHF9gcp74CEaom_8U7G/
 
 TESTNET FILES ONLY: 
 
-Google Drive link to TESTNET 10-03-19 "bootstrap.dat" format blockchain files.
-https://drive.google.com/open?id=1DFMk1nX5M63ZLFUlhOMtadlsE-M_spCo/ 
+Google Drive link to TESTNET 04-20-20 zipfile format blockchain files. 
+https://drive.google.com/open?id=1kL-tVYRmPAIkVJ1yjhlV2I-dntP1l_1o
 
 Windows: %APPDATA%/Reddcoin/testnet3
 Mac: ~/Library/Application Support/Reddcoin/testnet3
